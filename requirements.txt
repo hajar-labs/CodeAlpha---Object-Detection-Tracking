@@ -1,0 +1,7 @@
+# Object Detection & Tracking — CodeAlpha Task 4
+# Install with: pip install -r requirements.txt
+
+ultralytics>=8.0.0        # YOLOv8 (includes PyTorch)
+opencv-python>=4.8.0      # Video I/O and rendering
+numpy>=1.24.0             # Array operations
+scipy>=1.11.0             # Hungarian algorithm for SORT
